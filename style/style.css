@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: rgb(74, 68, 82);
+    color: blanchedalmond;
+}
+
+h1{
+    font-size: 40px;
+}
+
+#profileImage{
+    border-radius: 5px;
+    width: 250px;
+}
