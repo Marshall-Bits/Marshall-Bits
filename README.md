@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Marshall's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marshall-Bits&show_icons=true)
+![Marshall's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marshall-Bits&show_icons=true&hide=stars,issues)
 
 [![Top Tech](https://github-readme-stats.vercel.app/api/top-langs/?username=Marshall-Bits&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
