@@ -8,9 +8,9 @@ I started my development adventure in 2020 with javascript and I decided to shif
 
 I have a [youtube channel](https://www.youtube.com/channel/UC-nOGxd9XkmoztFolVupiAQ) in spanish where I explain my learning process with Game Development using Unity and C#. 
 
-In 2022 I finished a web dev bootcamp to start the journey as a full-stack web developer.
+In 2022 I finished 2 web dev bootcamps and started my journey as a full-time developer and part-time teacher assistant.
 
-Main stack: <code>JavaScript</code> <code>MongoDB</code> <code>ExpressJS</code> <code>NodeJS</code> <code>C#</code> <code>Unity engine</code> <code>React</code> <code>Angular</code>
+Main stack: <code>JavaScript</code> <code>TypeScript</code> <code>MongoDB</code> <code>ExpressJS</code> <code>NodeJS</code> <code>C#</code> <code>Unity engine</code> <code>React</code> <code>Vue</code> <code>Angular</code>
 
 
 In this profile you can check a little bit of the personal projects and this is are the main languages used:
