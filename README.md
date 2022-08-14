@@ -2,7 +2,7 @@
 
 ## Hi!🖖 I'm  Marcel, musician 🎸 and developer 💻 
 
-When I was a teenager I created a full website for an NGO only using plain html and I also started checking posibilities with macromedia flash with animations and a better UI environment. Can you believe it? the animation of a button was made with flash! 😲
+When I was a teenager I created a full website for an NGO using plain html and I also started checking posibilities with macromedia flash with animations and a better UI environment. Can you believe it? the animation of a button was made with flash! 😲
 
 I started my development adventure in 2020 with javascript and I decided to shift my career.
 
