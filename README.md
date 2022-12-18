@@ -2,22 +2,20 @@
 
 ## Hi!🖖 I'm  Marcel, musician 🎸 and developer 💻 
 
-When I was a teenager I created a full website for an NGO using plain html and I also started checking posibilities with macromedia flash with animations and a better UI environment. Can you believe it? the animation of a button was made with flash! 😲
+I am a full-time developer and part-time teacher assistant. I have a passion for web development and started my journey in 2020 with JavaScript. I have since completed two web development bootcamps and have gained valuable skills and knowledge in the field.
 
-I started my development adventure in 2020 with javascript and I decided to shift my career.
+In the past, I have also had experience creating websites for non-profit organizations using HTML and exploring the possibilities of Macromedia Flash for animations and UI design.
 
-I have a [youtube channel](https://www.youtube.com/channel/UC-nOGxd9XkmoztFolVupiAQ) in spanish where I explain my learning process with Game Development using Unity and C#. 
-
-In 2022 I finished 2 web dev bootcamps and started my journey as a full-time developer and part-time teacher assistant.
+I am also an avid learner and share my progress and experiences with Game Development using Unity and C# on my [YouTube channel](https://www.youtube.com/channel/UC-nOGxd9XkmoztFolVupiAQ) in Spanish. I am excited to continue growing and developing my skills as a developer and to contribute to meaningful projects.
 
 Main stack: <code>JavaScript</code> <code>TypeScript</code> <code>MongoDB</code> <code>ExpressJS</code> <code>NodeJS</code> <code>C#</code> <code>Unity engine</code> <code>React</code> <code>Vue</code> <code>Angular</code>
 
 
-In this profile you can check a little bit of the personal projects and this is are the main languages used:
+Main languages:
 
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marshall-Bits&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-And github stats:
+Github stats:
 
 ![Marshall's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marshall-Bits&show_icons=true&hide=stars,issues)
 
