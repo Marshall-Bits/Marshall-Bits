@@ -2,9 +2,17 @@
 
 ## Hi!🖖 I'm  Marcel, musician 🎸 and developer 💻 
 
-I am a full-time developer and teacher.
+🎵 Creativity and Technology
+As a musician and developer, I love merging creative expression with technical innovation. Always seeking opportunities to learn and grow.
 
-I am also an avid learner and share my progress and experiences with Game Development using Unity and C# on my [YouTube channel](https://www.youtube.com/channel/UC-nOGxd9XkmoztFolVupiAQ) in Spanish. I am excited to continue growing and developing my skills as a developer and to contribute to meaningful projects.
+🚀 Journey
+I created my first website at the age of 15, with the help of a web development manual I found on my father's bookshelf. My first website was worse than Homer Simpson's, but soon I started exploring new options like Dreamweaver and Flash (yes, I'm that old 🥸). It was a hobby for me until I had the opportunity to dedicate myself to it, acquire new knowledge, and gain the momentum to fully immerse myself in the tech industry. Through two bootcamps and countless YouTube videos and online courses, I was able to steer myself toward what is now my passion and profession.
+
+👨‍🏫 Lead Teacher at Ironhack
+After actively engaging in the education and mentoring of emerging developers, I currently hold the position of Lead Teacher at Ironhack Barcelona. Using the MERN stack (Mongo, Express, React, and Node).
+
+🎮 Game Development
+I self-taught C# with Unity since 2020 and share my knowledge and experience on my YouTube channel.
 
 Main stack: <code>JavaScript</code> <code>TypeScript</code> <code>MongoDB</code> <code>ExpressJS</code> <code>NodeJS</code> <code>C#</code> <code>Unity engine</code> <code>React</code> <code>Vue</code> <code>Angular</code>
 
