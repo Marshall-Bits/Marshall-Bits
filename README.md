@@ -12,19 +12,23 @@ By the age of 15, I had already spent a long time tinkering with game scripts. I
 My education was very self-taught until I decided to do a bootcamp to update my knowledge and learn the technologies in demand. Not content with that, I did another free bootcamp for web development, in addition to countless Udemy courses. By that time, I was already uploading videos to YouTube showing what I was learning in game development. I also realized how rewarding it was to teach and share knowledge while collaborating on projects with my peers, so I decided to apply for a teaching position.
 
 ### 🚀 Present Day
-Today, I have worked on dozens of projects as a freelancer and for companies. I have given over 4000 hours of courses and trained hundreds of students both in-person and remotely. Realizing that my students value my work and seeing success stories fills me with pride and motivates me to keep learning and teaching. I hope you enjoy my courses and that they help you achieve your goals as well.
+Today, I have given more than 4000 hours of courses and trained thousands of students both in-person and remotely, as a teacher in 3 different academies and Udemy. Realizing that my students value my work and seeing success stories fills me with pride and motivates me to keep learning and teaching. I hope you enjoy my courses and that they help you achieve your goals as well.
 
-Main stack: <code>JavaScript</code> <code>TypeScript</code> <code>MongoDB</code> <code>ExpressJS</code> <code>NodeJS</code> <code>C#</code> <code>Unity engine</code> <code>React</code> <code>Vue</code> <code>Angular</code>
+---
 
+### Tech stack
 
-Main languages:
+☕ Java ecosystem: <code>Java</code> <code>Spring boot</code> <code>Spring security</code> <code>MySQL</code> <code>Microservices</code>
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marshall-Bits&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+⚛️ JavaScript ecosystem: <code>JavaScript</code> <code>TypeScript</code> <code>MongoDB</code> <code>ExpressJS</code> <code>NodeJS</code> 
 
-Github stats:
+🕹️ Unity ecosystem: <code>C#</code> <code>Unity engine</code> <code>React</code>
 
-![Marshall's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marshall-Bits&show_icons=true&hide=stars,issues)
+---
 
-Contact me on [LinkedIn](https://www.linkedin.com/in/marcel-bosch-developer/)
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/marcel-bosch-developer/)
+
 
 Thanks for taking your time on checking the repositories and have fun! 😁 
